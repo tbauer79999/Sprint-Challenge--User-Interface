@@ -144,3 +144,34 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+/* Customized   */
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid red;
+    width: 800px;
+    height: 100px;
+    margin-left: 575px;
+    }
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
