@@ -147,7 +147,10 @@ footer nav a {
 
 
 
-/* Customized   */
+/* index.html   */
+
+
+
 
 .navigation {
     display: flex;
@@ -171,34 +174,34 @@ footer nav a {
 }
 
 .middle-content .boxes .box1 {
-    background-color: #008080;
+    background-color: teal;
 }
 .middle-content .boxes .box2 {
-    background-color: #ffd700;
+    background-color: gold;
 }
 .middle-content .boxes .box3 {
-    background-color: #5f9ea0;
+    background-color: cadetblue;
 }
 .middle-content .boxes .box4 {
-    background-color: #ff7f50;
+    background-color: coral;
 }
 .middle-content .boxes .box5 {
-    background-color: #dc143c;
+    background-color: crimson;
 }
 .middle-content .boxes .box6 {
-    background-color: #228b22;
+    background-color: forestgreen;
 }
 .middle-content .boxes .box7 {
-    background-color: #9932cc;
+    background-color: darkorchid;
 }
 .middle-content .boxes .box8 {
-    background-color: #ff69b4;
+    background-color: hotpink;
 }
 .middle-content .boxes .box9 {
-    background-color: #4b0082;
+    background-color: indigo;
 }
 .middle-content .boxes .box10 {
-    background-color: #1e90ff;
+    background-color: dodgerblue;
 }
 
 
@@ -208,11 +211,13 @@ footer nav a {
 
 
 /* about.html */
+.firstHR {
+    width:100%;
+}
 
 .firstSection {
     display: flex;
     margin-top: 25px;
-
 
 }
 
@@ -220,14 +225,12 @@ footer nav a {
     display: flex;
     margin-top: 50px;
     margin-bottom: 50px;
-
 }
 
 button {
     border: 1px solid black;
     border-radius: 5px;
     height: 25px;
-
 }
 
 hr {
@@ -235,4 +238,8 @@ hr {
     width: 350px;
     margin-left: 5px;
     margin-top: 20px;
+}
+
+p {
+    font-weight: bold;
 }
