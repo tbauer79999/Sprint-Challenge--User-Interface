@@ -153,21 +153,53 @@ footer nav a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 2px solid red;
     width: 800px;
-    height: 100px;
-    margin-left: 575px;
+    height: 110px;
+    margin-left: 550px;
     }
 
 .navigation a {
     text-decoration: none;
     color: black;
+    font-size: 14px;
+    font-weight: bold;
 }
 
+.header-image {
+    display: flex;
+    margin-left: 550px;
+}
 
-
-
-
+.middle-content .boxes .box1 {
+    background-color: #008080;
+}
+.middle-content .boxes .box2 {
+    background-color: #ffd700;
+}
+.middle-content .boxes .box3 {
+    background-color: #5f9ea0;
+}
+.middle-content .boxes .box4 {
+    background-color: #ff7f50;
+}
+.middle-content .boxes .box5 {
+    background-color: #dc143c;
+}
+.middle-content .boxes .box6 {
+    background-color: #228b22;
+}
+.middle-content .boxes .box7 {
+    background-color: #9932cc;
+}
+.middle-content .boxes .box8 {
+    background-color: #ff69b4;
+}
+.middle-content .boxes .box9 {
+    background-color: #4b0082;
+}
+.middle-content .boxes .box10 {
+    background-color: #1e90ff;
+}
 
 
 
