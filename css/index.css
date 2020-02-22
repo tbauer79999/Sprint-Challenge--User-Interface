@@ -151,7 +151,7 @@ footer nav a {
 
 .navigation {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     width: 800px;
     height: 110px;
@@ -207,3 +207,32 @@ footer nav a {
 
 
 
+/* about.html */
+
+.firstSection {
+    display: flex;
+    margin-top: 25px;
+
+
+}
+
+.secondSection{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+
+}
+
+hr {
+    border-top: 1px dotted black;
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
