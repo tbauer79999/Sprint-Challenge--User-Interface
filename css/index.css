@@ -144,3 +144,102 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+/* index.html   */
+
+
+
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    height: 110px;
+    margin-left: 550px;
+    }
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.header-image {
+    display: flex;
+    margin-left: 550px;
+}
+
+.middle-content .boxes .box1 {
+    background-color: teal;
+}
+.middle-content .boxes .box2 {
+    background-color: gold;
+}
+.middle-content .boxes .box3 {
+    background-color: cadetblue;
+}
+.middle-content .boxes .box4 {
+    background-color: coral;
+}
+.middle-content .boxes .box5 {
+    background-color: crimson;
+}
+.middle-content .boxes .box6 {
+    background-color: forestgreen;
+}
+.middle-content .boxes .box7 {
+    background-color: darkorchid;
+}
+.middle-content .boxes .box8 {
+    background-color: hotpink;
+}
+.middle-content .boxes .box9 {
+    background-color: indigo;
+}
+.middle-content .boxes .box10 {
+    background-color: dodgerblue;
+}
+
+
+
+
+
+
+
+/* about.html */
+.firstHR {
+    width:100%;
+}
+
+.firstSection {
+    display: flex;
+    margin-top: 25px;
+
+}
+
+.secondSection{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+}
+
+hr {
+    border-top: 1px dotted black;
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+p {
+    font-weight: bold;
+}
